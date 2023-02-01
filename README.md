@@ -1,12 +1,12 @@
 # PaperPlane for SnapAR Lensathon 2023
-_**Connect, Play, and Share Anonymously with Friends - Join the Paper Plane Adventure on Snap AR!**_
-<br/>
+**Connect, Play, and Share Anonymously with Friends - Join the Paper Plane Adventure on Snap AR!**
+<br>
 
 Try out the Snapchat lens by scanning the below Snapcode with your Snapchat!
 ![snapcode](/snapcode.png)
 
 Just wanna take a look? You can check out the [Snap Lens](https://lens.snapchat.com/5f894b0b93fd4b1e8724c99aaaaac8fb), leave a comment at [Devpost](https://devpost.com/software/paper-plane-742lqz), or watch the [Video Demo](https://youtube.com/shorts/RElml8fUNO8)!
-<br/>
+<br>
 
 ### Inspiration
 We were inspired by the passing-secret-notes game we play as kids in elementary school classrooms. We would toss the anonymous notes with secrets, love confessions, or jokes to other kids and the anonymity of the game makes it more realistic as we could never predict if the notes are passed to the "target receiver". 
